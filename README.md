@@ -1,4 +1,5 @@
 Dataset link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
 📈 Key Results & Evaluation
 Silhouette Score: 0.5539 Interpretation: A strictly positive score above 0.5 mathematically demonstrates that the customer profiles are grouped into stable, structurally sound, and well-separated clusters.
 
